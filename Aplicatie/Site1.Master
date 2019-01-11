@@ -1,0 +1,32 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Aplicatie.Site1" %>
+
+<!DOCTYPE html>
+
+<head runat="server">
+    <title>Project</title>
+    <link href="Css/Home.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+        <link href="Css/Home.css" rel="stylesheet" />
+       
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <ul class="menu">
+            
+            <li><a href="../Home.aspx">Home</a></li>
+            <li><a href="../Login.aspx">Login</a></li>
+            <li><a href="../Register.aspx">Register</a></li>
+            <li><a href="../Ninja/MovieDB.aspx">Database</a></li>
+            <li><a href="../NewM.aspx">New Movies</a></li>
+        </ul>
+    <form id="form1" runat="server">
+    <div>
+         
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    
+    </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,112 @@
+C:\Users\Vladut\Desktop\Afaceri Electronice 2\Aplicatie\Aplicatie\bin\Aplicatie.dll.config
+C:\Users\Vladut\Desktop\Afaceri Electronice 2\Aplicatie\Aplicatie\bin\Aplicatie.dll
+C:\Users\Vladut\Desktop\Afaceri Electronice 2\Aplicatie\Aplicatie\bin\Aplicatie.pdb
+C:\Users\Vladut\Desktop\Afaceri Electronice 2\Aplicatie\Aplicatie\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Vladut\Desktop\Afaceri Electronice 2\Aplicatie\Aplicatie\bin\EntityFramework.dll
+C:\Users\Vladut\Desktop\Afaceri Electronice 2\Aplicatie\Aplicatie\bin\EntityFramework.SqlServer.dll
+C:\Users\Vladut\Desktop\Afaceri Electronice 2\Aplicatie\Aplicatie\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Vladut\Desktop\Afaceri Electronice 2\Aplicatie\Aplicatie\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Vladut\Desktop\Afaceri Electronice 2\Aplicatie\Aplicatie\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Vladut\Desktop\Afaceri Electronice 2\Aplicatie\Aplicatie\bin\Microsoft.Owin.dll
+C:\Users\Vladut\Desktop\Afaceri Electronice 2\Aplicatie\Aplicatie\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Vladut\Desktop\Afaceri Electronice 2\Aplicatie\Aplicatie\bin\Microsoft.Owin.Security.dll
+C:\Users\Vladut\Desktop\Afaceri Electronice 2\Aplicatie\Aplicatie\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Vladut\Desktop\Afaceri Electronice 2\Aplicatie\Aplicatie\bin\Newtonsoft.Json.dll
+C:\Users\Vladut\Desktop\Afaceri Electronice 2\Aplicatie\Aplicatie\bin\Owin.dll
+C:\Users\Vladut\Desktop\Afaceri Electronice 2\Aplicatie\Aplicatie\bin\EntityFramework.xml
+C:\Users\Vladut\Desktop\Afaceri Electronice 2\Aplicatie\Aplicatie\bin\EntityFramework.SqlServer.xml
+C:\Users\Vladut\Desktop\Afaceri Electronice 2\Aplicatie\Aplicatie\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Vladut\Desktop\Afaceri Electronice 2\Aplicatie\Aplicatie\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Vladut\Desktop\Afaceri Electronice 2\Aplicatie\Aplicatie\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Vladut\Desktop\Afaceri Electronice 2\Aplicatie\Aplicatie\bin\Microsoft.Owin.xml
+C:\Users\Vladut\Desktop\Afaceri Electronice 2\Aplicatie\Aplicatie\bin\Microsoft.Owin.Security.xml
+C:\Users\Vladut\Desktop\Afaceri Electronice 2\Aplicatie\Aplicatie\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Vladut\Desktop\Afaceri Electronice 2\Aplicatie\Aplicatie\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Vladut\Desktop\Afaceri Electronice 2\Aplicatie\Aplicatie\bin\Newtonsoft.Json.xml
+C:\Users\Vladut\Desktop\Afaceri Electronice 2\Aplicatie\Aplicatie\obj\Debug\Aplicatie.csprojResolveAssemblyReference.cache
+C:\Users\Vladut\Desktop\Afaceri Electronice 2\Aplicatie\Aplicatie\obj\Debug\Aplicatie.dll
+C:\Users\Vladut\Desktop\Afaceri Electronice 2\Aplicatie\Aplicatie\obj\Debug\Aplicatie.pdb
+D:\Aplicatie\Aplicatie\bin\Aplicatie.dll.config
+D:\Aplicatie\Aplicatie\bin\Aplicatie.dll
+D:\Aplicatie\Aplicatie\bin\Aplicatie.pdb
+D:\Aplicatie\Aplicatie\bin\AspNet.ScriptManager.jQuery.dll
+D:\Aplicatie\Aplicatie\bin\EntityFramework.dll
+D:\Aplicatie\Aplicatie\bin\EntityFramework.SqlServer.dll
+D:\Aplicatie\Aplicatie\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Aplicatie\Aplicatie\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Aplicatie\Aplicatie\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Aplicatie\Aplicatie\bin\Microsoft.Owin.dll
+D:\Aplicatie\Aplicatie\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Aplicatie\Aplicatie\bin\Microsoft.Owin.Security.dll
+D:\Aplicatie\Aplicatie\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Aplicatie\Aplicatie\bin\Newtonsoft.Json.dll
+D:\Aplicatie\Aplicatie\bin\Owin.dll
+D:\Aplicatie\Aplicatie\bin\EntityFramework.xml
+D:\Aplicatie\Aplicatie\bin\EntityFramework.SqlServer.xml
+D:\Aplicatie\Aplicatie\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Aplicatie\Aplicatie\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Aplicatie\Aplicatie\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Aplicatie\Aplicatie\bin\Microsoft.Owin.xml
+D:\Aplicatie\Aplicatie\bin\Microsoft.Owin.Security.xml
+D:\Aplicatie\Aplicatie\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Aplicatie\Aplicatie\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Aplicatie\Aplicatie\bin\Newtonsoft.Json.xml
+D:\Aplicatie\Aplicatie\obj\Debug\Aplicatie.csprojResolveAssemblyReference.cache
+D:\Aplicatie\Aplicatie\obj\Debug\Aplicatie.dll
+D:\Aplicatie\Aplicatie\obj\Debug\Aplicatie.pdb
+F:\Aplicatie\Aplicatie\bin\Aplicatie.dll.config
+F:\Aplicatie\Aplicatie\bin\Aplicatie.dll
+F:\Aplicatie\Aplicatie\bin\Aplicatie.pdb
+F:\Aplicatie\Aplicatie\bin\AspNet.ScriptManager.jQuery.dll
+F:\Aplicatie\Aplicatie\bin\EntityFramework.dll
+F:\Aplicatie\Aplicatie\bin\EntityFramework.SqlServer.dll
+F:\Aplicatie\Aplicatie\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Aplicatie\Aplicatie\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Aplicatie\Aplicatie\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Aplicatie\Aplicatie\bin\Microsoft.Owin.dll
+F:\Aplicatie\Aplicatie\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Aplicatie\Aplicatie\bin\Microsoft.Owin.Security.dll
+F:\Aplicatie\Aplicatie\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Aplicatie\Aplicatie\bin\Newtonsoft.Json.dll
+F:\Aplicatie\Aplicatie\bin\Owin.dll
+F:\Aplicatie\Aplicatie\bin\EntityFramework.xml
+F:\Aplicatie\Aplicatie\bin\EntityFramework.SqlServer.xml
+F:\Aplicatie\Aplicatie\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Aplicatie\Aplicatie\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Aplicatie\Aplicatie\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Aplicatie\Aplicatie\bin\Microsoft.Owin.xml
+F:\Aplicatie\Aplicatie\bin\Microsoft.Owin.Security.xml
+F:\Aplicatie\Aplicatie\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Aplicatie\Aplicatie\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Aplicatie\Aplicatie\bin\Newtonsoft.Json.xml
+F:\Aplicatie\Aplicatie\obj\Debug\Aplicatie.csprojResolveAssemblyReference.cache
+F:\Aplicatie\Aplicatie\obj\Debug\Aplicatie.dll
+F:\Aplicatie\Aplicatie\obj\Debug\Aplicatie.pdb
+C:\Users\Gabriel\Downloads\Aplicatie\Aplicatie\bin\Aplicatie.dll.config
+C:\Users\Gabriel\Downloads\Aplicatie\Aplicatie\bin\Aplicatie.dll
+C:\Users\Gabriel\Downloads\Aplicatie\Aplicatie\bin\Aplicatie.pdb
+C:\Users\Gabriel\Downloads\Aplicatie\Aplicatie\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Gabriel\Downloads\Aplicatie\Aplicatie\bin\EntityFramework.dll
+C:\Users\Gabriel\Downloads\Aplicatie\Aplicatie\bin\EntityFramework.SqlServer.dll
+C:\Users\Gabriel\Downloads\Aplicatie\Aplicatie\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Gabriel\Downloads\Aplicatie\Aplicatie\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Gabriel\Downloads\Aplicatie\Aplicatie\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Gabriel\Downloads\Aplicatie\Aplicatie\bin\Microsoft.Owin.dll
+C:\Users\Gabriel\Downloads\Aplicatie\Aplicatie\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Gabriel\Downloads\Aplicatie\Aplicatie\bin\Microsoft.Owin.Security.dll
+C:\Users\Gabriel\Downloads\Aplicatie\Aplicatie\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Gabriel\Downloads\Aplicatie\Aplicatie\bin\Newtonsoft.Json.dll
+C:\Users\Gabriel\Downloads\Aplicatie\Aplicatie\bin\Owin.dll
+C:\Users\Gabriel\Downloads\Aplicatie\Aplicatie\bin\EntityFramework.xml
+C:\Users\Gabriel\Downloads\Aplicatie\Aplicatie\bin\EntityFramework.SqlServer.xml
+C:\Users\Gabriel\Downloads\Aplicatie\Aplicatie\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Gabriel\Downloads\Aplicatie\Aplicatie\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Gabriel\Downloads\Aplicatie\Aplicatie\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Gabriel\Downloads\Aplicatie\Aplicatie\bin\Microsoft.Owin.xml
+C:\Users\Gabriel\Downloads\Aplicatie\Aplicatie\bin\Microsoft.Owin.Security.xml
+C:\Users\Gabriel\Downloads\Aplicatie\Aplicatie\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Gabriel\Downloads\Aplicatie\Aplicatie\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Gabriel\Downloads\Aplicatie\Aplicatie\bin\Newtonsoft.Json.xml
+C:\Users\Gabriel\Downloads\Aplicatie\Aplicatie\obj\Debug\Aplicatie.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Downloads\Aplicatie\Aplicatie\obj\Debug\Aplicatie.dll
+C:\Users\Gabriel\Downloads\Aplicatie\Aplicatie\obj\Debug\Aplicatie.pdb
